@@ -2,7 +2,7 @@ name: Prueba
 
 on:
   push:
-    branches: [ master ]
+    branches: [ develop ]
 
 jobs:
   build:
